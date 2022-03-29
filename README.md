@@ -1,8 +1,10 @@
 # DataCool
-Framework of the database design
+
 <p align="center">
 <img src="logo/black.jpg" alt="black logo" height="800" width="800"/>
 </p>
+
+## Framework of the database design
 
 ## Workplace
 Google Docs is for brainstorming and sketching:
