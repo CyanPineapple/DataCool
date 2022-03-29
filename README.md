@@ -1,6 +1,8 @@
 # DataCool
 Framework of the database design
 
+![](logo/ins.jpeg)
+
 ## Workplace
 Google Docs is for brainstorming and sketching:
 
