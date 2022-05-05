@@ -1,0 +1,6 @@
+[submodule "nodejs-express-mysql"]
+	path = nodejs-express-mysql
+	url = git@github.com:bezkoder/nodejs-express-mysql.git
+[submodule "vue-3-crud"]
+	path = vue-3-crud
+	url = git@github.com:bezkoder/vue-3-crud.git
