@@ -5,7 +5,7 @@
 </p>
 
 ## Framework of the database design
-The Core and Frontend are submodules. 
+The cool-core and cool-vue are submodules. 
 
 Clone the parent repo(DataCool).
 
