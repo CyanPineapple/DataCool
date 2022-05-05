@@ -5,6 +5,17 @@
 </p>
 
 ## Framework of the database design
+The Core and Frontend are submodules. 
+
+Clone the parent repo(DataCool).
+
+run ```npm install``` in both submodules. 
+
+Change `db.config.js` in cool-core/app/config to your local database configuration.
+
+Then run ```node server.js``` in cool-core to run the server
+
+Then run ```npm run serve``` in cool-vue to run the client
 
 ## Workplace
 Google Docs is for brainstorming and sketching:
