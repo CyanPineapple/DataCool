@@ -1,0 +1,6 @@
+[submodule "cool-vue"]
+	path = cool-vue
+	url = git@github.com:CyanPineapple/cool-vue.git
+[submodule "cool-core"]
+	path = cool-core
+	url = git@github.com:CyanPineapple/cool-core.git
